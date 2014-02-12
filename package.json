@@ -1,5 +1,10 @@
 {
   "name": "smooth.js",
   "version": "0.1.7",
-  "main: "smooth.js"
+  "main": "smooth.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tinj/Smooth.js.git"
+  },
+  "license": "MIT"
 }
